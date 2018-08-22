@@ -1,0 +1,1485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"numer",
+				"numeroInteiro"
+			],
+			[
+				"eas",
+				"ease-in\tanimation-timing-function"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ass",
+				"assets/imgs/desktop/trickup_sm.png"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"pegaessa",
+				"assets/imgs/desktop/pegaessa_xl.png"
+			],
+			[
+				"pega",
+				"assets/imgs/desktop/pegaessa_sm.png"
+			],
+			[
+				"seri",
+				"serializeArray\t.serializeArray()"
+			],
+			[
+				"array",
+				"array_return"
+			],
+			[
+				"ri",
+				"rig\tright"
+			],
+			[
+				"on",
+				"on\t.on()"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"arr",
+				"array_fix"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width_form"
+			],
+			[
+				"Sans",
+				"sans-serif"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"msg",
+				"msg_r"
+			],
+			[
+				"hidden",
+				"hidden-sm"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"emal",
+				"emailUpdate"
+			],
+			[
+				"email",
+				"emailUpdate"
+			],
+			[
+				"validate",
+				"validateName"
+			],
+			[
+				"focus",
+				"focusout\t.focusout()"
+			],
+			[
+				"create",
+				"create_captcha"
+			],
+			[
+				"backgrund",
+				"background-color"
+			],
+			[
+				"hide",
+				"hideError"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"cadastro",
+				"cadastro_cupom"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"new_",
+				"new_york_popup"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"convert",
+				"convert_va_to_css"
+			],
+			[
+				"effra",
+				"effraregular"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"hidde",
+				"hidden-md"
+			],
+			[
+				"hiden",
+				"hidden-lg"
+			],
+			[
+				"effr",
+				"effrabold"
+			],
+			[
+				"default",
+				"default_button"
+			],
+			[
+				"Effra",
+				"effraregular"
+			],
+			[
+				"hid",
+				"hidden-xs"
+			],
+			[
+				"txt",
+				"text-center"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"confirm",
+				"confirm_id"
+			],
+			[
+				"_c",
+				"src/sass/_components/slick-theme.scss"
+			],
+			[
+				"_compon",
+				"src/sass/_components/slick.scss"
+			],
+			[
+				"backgrond",
+				"background-position"
+			],
+			[
+				"hiddem-",
+				"hidden-sm"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"str",
+				"strCPF"
+			],
+			[
+				"foreach",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"preven",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"tabe",
+				"table-header-group"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"header",
+				"headerData"
+			],
+			[
+				"cadas",
+				"cadastro_sucesso"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"defaut",
+				"default_purple"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"jsone",
+				"json_decode"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"hidden-",
+				"hidden-md"
+			],
+			[
+				"new",
+				"new_padding_left"
+			],
+			[
+				"backo",
+				"background-position"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"comple",
+				"complete:function"
+			],
+			[
+				"B",
+				"Boticário"
+			],
+			[
+				"hi",
+				"hidden-md"
+			],
+			[
+				"footer",
+				"footer_promo"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"new_ce",
+				"new_cep2"
+			],
+			[
+				"ws",
+				"wsData"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"bakc",
+				"background-repeat"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"modal",
+				"modal-content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"utf-8\">\n\t<title>vue2</title>\n</head>\n<body>\n\t<div id=\"app\" class=\"container\">\n\t\t<div class=\"row\">\n\t\t\t<h3>Campeonato Brasileiro - Série A - 2016</h3>\n\t\t\t<br>\n\t\t\t<br>\n\t\t\t<table class=\"table table-striped\">\n\t\t\t\t<thead>\n\t\t\t\t\t<tr>\n\t\t\t\t\t\t<th>Time</th>\n\t\t\t\t\t\t<th>Pontos</th>\n\t\t\t\t\t\t<th>GM</th>\n\t\t\t\t\t\t<th>GS</th>\n\t\t\t\t\t\t<th>Saldo</th>\n\t\t\t\t\t</tr>\n\t\t\t\t</thead>\n\t\t\t\t<tbody>\n\t\t\t\t\t<tr v-for=\"time in times\">\n\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t<img :src=\"time.escudo\" style=\"height: 30px; width: 30px\">\n\t\t\t\t\t\t\t<strong>{{time.nome}}</strong>\n\t\t\t\t\t\t</td>\n\t\t\t\t\t\t<td>{{time.pontos}}</td>\n\t\t\t\t\t\t<td>{{time.gm}}</td>\n\t\t\t\t\t\t<td>{{time.gs}}</td>\n\t\t\t\t\t\t<td>saldo</td>\n\t\t\t\t\t</tr>\n\t\t\t\t</tbody>\n\t\t\t</table>\n\t\t</div>\n\t\t<div class=\"row\">\n\t\t\t<form class=\"form-inline\">\n\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\tGols: {{novoJogo.casa.gols}}\n\t\t\t\t\t<input type=\"number\" class=\"form-control\" v-model=\"novoJogo.casa.gols\">\n\t\t\t\t\t<label class=\"control-label\">\n\t\t\t\t\t\t{{novoJogo.casa.time.nome}}\n\t\t\t\t\t\t<img :src=\"novoJogo.casa.time.escudo\" style=\"height: 30px; width: 30px;\">\n\t\t\t\t\t</label>\n\t\t\t\t</div>\n\t\t\t\t<span>X</span>\n\t\t\t\t<div class=\"form-group\">\n\t\t\t\t\t<label class=\"control-label\">\n\t\t\t\t\t\t<img :src=\"novoJogo.fora.time.escudo\" style=\"height: 30px; width: 30px;\">\n\t\t\t\t\t\t{{novoJogo.fora.time.nome}}\n\t\t\t\t\t</label>\n\t\t\t\t\t<input type=\"number\" class=\"form-control\" v-model=\"novoJogo.fora.gols\">\n\t\t\t\t\tGols: {{novoJogo.fora.gols}}\n\t\t\t\t</div>\n\t\t\t\t<button type=\"button\" class=\"btn btn-primary\" v-on:click=\"\">Fim de jogo</button>\n\t\t\t</form>\n\t\t</div>\n\t</div>\n\t<script src=\"/dist/build.js\"></script>\n</body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 1580,
+			"file_write_time": 131793516531094495,
+			"settings":
+			{
+				"buffer_size": 1593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1478,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/time.js",
+			"settings":
+			{
+				"buffer_size": 148,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 2104,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"ecmasc",
+				"Set Syntax: Ecmascript"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"01",
+				"Emmet: Decrement Number by 0.1"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"pacakge",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/vue2"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/vue2/terminal.glue",
+		"/C/wamp64/www/vue2/package.json",
+		"/C/Users/batis/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/batis/AppData/Roaming/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/C/wamp64/www/vue2/README.md",
+		"/C/wamp64/www/vue2/webpack.config.js",
+		"/C/wamp64/www/rihappypeppa/src/javascript/scripts.js",
+		"/C/wamp64/www/rihappypeppa/application/config/routes.php",
+		"/C/wamp64/www/rihappypeppa/application/controllers/Ajax.php",
+		"/C/wamp64/www/rihappypeppa/application/controllers/Cadastro.php",
+		"/C/wamp64/www/rihappypeppa/application/views/page/cadastre_se.php",
+		"/C/wamp64/www/trickup/application/views/partials/header.php",
+		"/C/wamp64/www/trickup/assets/css/style.min.css",
+		"/C/wamp64/www/trickup/assets/css/animated_ball.css",
+		"/C/wamp64/www/trickup/assets/css/style.css",
+		"/C/wamp64/www/trickup/application/views/page/index.php",
+		"/C/wamp64/www/trickup/package.json",
+		"/C/wamp64/www/trickup/gulpfile.js",
+		"/C/wamp64/www/trickup/assets/css/bootstrap.min.css",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/www/trickup/readme.rst",
+		"/C/wamp64/www/trickup/contributing.md",
+		"/C/wamp64/www/natalturbinado/natalturbinado/src/sass/ganhadores.scss",
+		"/C/wamp64/www/natalturbinado/natalturbinado/application/controllers/HomeController.php",
+		"/C/wamp64/www/natalturbinado/natalturbinado/application/controllers/Cadastro.php",
+		"/C/wamp64/www/natalturbinado/natalturbinado/application/views/page/regulamento.php",
+		"/C/wamp64/www/natalturbinado/natalturbinado/application/views/page/alterar_cadastro.php",
+		"/C/wamp64/www/asbra/ASBRA/torneio-internacional/index.html",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_pages/pernambucanas.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/index.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_pages/mapfre.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_pages/estadao.scss",
+		"/C/wamp64/www/landing_page/landingpage/assets/css/style.min.css",
+		"/C/wamp64/www/landing_page/landingpage/src/javascript/01-methods.js",
+		"/C/wamp64/www/landing_page/landingpage/src/javascript/mapfre.js",
+		"/C/Users/batis/Desktop/sendMail.php",
+		"/C/wamp64/www/landing_page/landingpage/assets/css/main.css",
+		"/C/wamp64/www/landing_page/landingpage/application/helpers/post_json_helper.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/7/already_feedback.php",
+		"/C/wamp64/www/landing_page/landingpage/application/config/routes.php",
+		"/C/wamp64/www/landing_page/landingpage/src/javascript/functions.js",
+		"/C/wamp64/www/landing_page/landingpage/application/views/partials/header.php",
+		"/C/wamp64/www/landing_page/gulpfile.js",
+		"/C/wamp64/www/landing_page/landingpage/gulpfile.js",
+		"/C/wamp64/www/landing_page/landingpage/application/controllers/HomeController.php",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_pages/concurso.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_components/slick-theme.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_pages/boticario.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_landingpage.scss",
+		"/C/wamp64/www/landing_page/landingpage/assets/js/01-methods.js",
+		"/C/wamp64/www/landing_page/landingpage/assets/js/slick.js",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/6.php",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/boticario.scss",
+		"/C/wamp64/www/landing_page/landingpage/src/sass/_utils/fonts.scss",
+		"/C/wamp64/www/landing_page/landingpage/assets/css/iconmon_setas.css",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/statics/7.php",
+		"/C/wamp64/www/landing_page/landingpage/assets/css/font-awesome.min.css",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/5.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/partials/footer.php",
+		"/C/wamp64/www/landing_page/landingpage/assets/fonts/demo.html",
+		"/C/wamp64/www/landing_page/landingpage/assets/fonts/setas/style.css",
+		"/C/wamp64/www/landing_page/landingpage/assets/fonts/setas/selection.json",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/6/already_feedback.php",
+		"/C/wamp64/www/landing_page/landingpage/assets/js/jquery.floatThead.min.js",
+		"/C/wamp64/www/landing_page/landingpage/assets/js/rating.js",
+		"/C/wamp64/www/cimpor/application/controllers/GanhadoresVendedor.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/4.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/4/already_feedback.php",
+		"/C/wamp64/www/landing_page/landingpage/application/controllers/StaticPage.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/1.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/1/already_feedback.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/statics/static_estadao_ale.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/motivo_sky.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/2.php",
+		"/C/wamp64/www/landing_page/landingpage/application/views/page/sky/agendamento_sky.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/HomeController.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/config/routes.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/aventuradepiratas/partials/header.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/aventuradepiratas/partials/footer.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/ganhadores.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/aventuradepiratas/page/ganhadores.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/cadastrar_cupom.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/javascript/01-methods.js",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/cupom.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/cadastre_se.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/cadastro.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/helpers/promoend_helper.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/partials/footer.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/meus_cupons.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/como_participar.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/partials/header.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/config/config.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/ajax_controllers/TicketRegistration.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/regulamento.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/regulamento.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/cadastro_sucesso.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/cadastro_sucesso.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/index.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/premios.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/produtos.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/index.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/como_participar.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/popup_geral.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/ganhadores.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/premios.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/produtos.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/_utils/mixins.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/javascript/99-general.js",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/Cupom.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/Cadastro.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/header.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/alterar_cadastro.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/_utils/functions.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/main.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/meus_cupons.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/ajax_controllers/RegistrationChange.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/ajax_controllers/Registration.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/sitemap-pbkids.xml",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/cupom_sucesso.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/robots.txt",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/index.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/footer.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/cupons_sucesso.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/controllers/ajax_controllers/GetPassword.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/application/views/page/duvidas.php",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/_utils/fonts.scss",
+		"/C/wamp64/www/trilhadadiversao/trilhadadiversao/src/sass/duvidas.scss"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			">\n",
+			"')),\t\t",
+			"')),\n",
+			"}}\n",
+			"scripts",
+			"sended",
+			"wsData",
+			"Você já está",
+			"cadastroTrickup",
+			"postCadastroTrickup",
+			"cpf",
+			"nome_crianca",
+			"230deg",
+			"from",
+			"to",
+			");}",
+			"216deg",
+			")}\n",
+			"\n@keyframes bounce {\n  from { transform: translate3d(0, -450px, 0);     }\n  to   { transform: translate3d(0, 0, 0); }\n}\n",
+			"to",
+			"from",
+			"xs",
+			"xl",
+			"xs",
+			"body/bac",
+			"obile",
+			"xl",
+			"\n@media and (min-height: 1200px) {\n\n  @keyframes bounce {\n    from { transform: translate3d(0, -1080px, 0);     }\n    to   { transform: translate3d(0, 0, 0); }\n  }\n}\n",
+			"\n@media and (min-height: 992px) {\n\n  @keyframes bounce {\n    from { transform: translate3d(0, -900px, 0);     }\n    to   { transform: translate3d(0, 0, 0); }\n  }\n}\n",
+			"\n@media and (min-height: 768px) {\n\n  @keyframes bounce {\n    from { transform: translate3d(0, -720px, 0);     }\n    to   { transform: translate3d(0, 0, 0); }\n  }\n}\n",
+			"xs",
+			"xl",
+			"lg",
+			"@media screen and (min-width: 768px) {\n\t.formulario {\n\t\tbackground-image: url('/assets/imgs/desktop/formulario_sm-min.png');\n\t}\n\n\t.pegaessa {\n\t\tbackground-image: url('/assets/imgs/desktop/pegaessa_sm-min.png');\n\t}\n\n\t.lancamento {\n\t\tbackground-image: url('/assets/imgs/desktop/lancamento_sm-min.png');\n\t}\n\n\t.trickup {\n\t\tbackground-image: url('/assets/imgs/desktop/bg_trickup_sm-min.png');\n\t}\n\n\t.ball {\n\t\tbackground-image: url('/assets/imgs/desktop/obj_trickup_bola_sm.png');\n\t\twidth: 71px;\n\t\theight: 71px;\n\t\tmargin-bottom: -71px;\n\t}\n\t\n\t.cup {\n\t\tbackground-image: url('/assets/imgs/desktop/obj_trickup_sm.png');\n\t\twidth: 487px;\n\t\theight: 278px;\n\t}\n}\n",
+			"\n\t50% {\n\t\tfilter: hue-rotate(180deg);\n\t}\n\n",
+			";\n",
+			"\n.pegaessa {\n\tbackground-image: url('/assets/imgs/desktop/pegaessa_xl-min.png');\n\t-webkit-background-size: 100%;\n\tbackground-size: 100%;\n\tpadding-top: 72.86458333333333%;\n}\n",
+			";\n",
+			"favicon",
+			".content_background",
+			"@media screen and (min-width: 992px) {\n\t.formulario {\n\t\tbackground-image: url('/assets/imgs/desktop/formulario_md-min.png');\n\t}\n}\n\n",
+			"@media screen and (min-width: 768px) {\n\t.formulario {\n\t\tbackground-image: url('/assets/imgs/desktop/formulario_sm-min.png');\n\t}\n}\n",
+			".png",
+			"css",
+			"content_background",
+			".description",
+			".content_form h1",
+			"desktop/bg",
+			"bg.jpg",
+			"/>\n",
+			"\t<div class=\"parent\">\n\t\t<img src=\"/assets/imgs/desktop/lancamento_lg.png\"\tclass=\"aspect-ratio visible-lg-block\" alt=\"lancamento\">\n\t\t<img src=\"/assets/imgs/desktop/lancamento_md.png\"\tclass=\"aspect-ratio visible-md-block\" alt=\"lancamento\">\n\t\t<img src=\"/assets/imgs/desktop/lancamento_sm.png\"\tclass=\"aspect-ratio visible-sm-block\" alt=\"lancamento\">\n\t\t<img src=\"/assets/imgs/desktop/lancamento_sm.png\"\tclass=\"aspect-ratio visible-xs-block\" alt=\"lancamento\">\n\t</div>\n",
+			"block",
+			">\n",
+			"fonte-padrao",
+			"headerContainer",
+			"background.jpg",
+			"bakground.jpg",
+			"\n<VirtualHost *:8109>\n\tServerName umacasadenatal\n\tDocumentRoot \"c:/wamp64/www/casadenatal2017/casadenatal2017\"\n\t<Directory  \"c:/wamp64/www/casadenatal2017/casadenatal2017/\">\n\t\tOptions +Indexes +Includes +FollowSymLinks +MultiViews\n\t\tAllowOverride All\n\t\tRequire local\n\t</Directory>\n</VirtualHost>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"100%",
+			"0%",
+			"100%",
+			"0%",
+			"xl",
+			"lg",
+			"xl",
+			"xs",
+			"xl",
+			"xs",
+			"xl",
+			"-min.png",
+			"_min.png"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1486,
+								1486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 582.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								817
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (Webpack).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/time.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1728,
+								1728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ecmascript Syntax/ecmascript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "son-vue2.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"webpa",
+				"webpack.config.js"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ajax",
+				"application\\controllers\\Ajax.php"
+			],
+			[
+				"cadas",
+				"application\\views\\page\\cadastre_se.php"
+			],
+			[
+				"route",
+				"application\\config\\routes.php"
+			],
+			[
+				"cadastr",
+				"application\\views\\page\\cadastre_se.php"
+			],
+			[
+				"style",
+				"assets\\css\\style.css"
+			],
+			[
+				"bootstra",
+				"assets\\css\\bootstrap.min.css"
+			],
+			[
+				"ganhadore",
+				"src\\sass\\ganhadores.scss"
+			],
+			[
+				"ganha",
+				"application\\views\\page\\ganhadores.php"
+			],
+			[
+				"ganhador",
+				"src\\sass\\ganhadores.scss"
+			],
+			[
+				"homecontro",
+				"application\\controllers\\HomeController.php"
+			],
+			[
+				"header",
+				"application\\views\\partials\\header.php"
+			],
+			[
+				"footer",
+				"application\\views\\partials\\footer.php"
+			],
+			[
+				"01",
+				"src\\javascript\\01-methods.js"
+			],
+			[
+				"regula",
+				"application\\views\\page\\regulamento.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"aja",
+				"application\\controllers\\Ajax.php"
+			],
+			[
+				"99",
+				"src\\javascript\\99-general.js"
+			],
+			[
+				"alterar",
+				"application\\views\\page\\alterar_cadastro.php"
+			],
+			[
+				"confi",
+				"application\\config\\config.php"
+			],
+			[
+				"como",
+				"application\\views\\page\\como_participar.php"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"estda",
+				"src\\sass\\_pages\\estadao.scss"
+			],
+			[
+				"pern",
+				"src\\sass\\_pages\\pernambucanas.scss"
+			],
+			[
+				"index.scss",
+				"src\\sass\\index.scss"
+			],
+			[
+				"main",
+				"assets\\css\\main.css"
+			],
+			[
+				"pernam",
+				"src\\sass\\_pages\\pernambucanas.scss"
+			],
+			[
+				"mapfre.scs",
+				"src\\sass\\_pages\\mapfre.scss"
+			],
+			[
+				"post_",
+				"application\\helpers\\post_json_helper.php"
+			],
+			[
+				"mapfre",
+				"src\\javascript\\mapfre.js"
+			],
+			[
+				"func",
+				"src\\javascript\\functions.js"
+			],
+			[
+				"riach",
+				"src\\sass\\riachuelo.scss"
+			],
+			[
+				"index.scs",
+				"src\\sass\\index.scss"
+			],
+			[
+				"fonts",
+				"src\\sass\\_utils\\fonts.scss"
+			],
+			[
+				"slick",
+				"src\\sass\\_components\\slick-theme.scss"
+			],
+			[
+				"homecontor",
+				"application\\controllers\\HomeController.php"
+			],
+			[
+				"ganhadores_cons",
+				"application\\views\\page\\ganhadores_consumidor.php"
+			],
+			[
+				"ganhadores_vendedor",
+				"application\\views\\page\\ganhadores_vendedor.php"
+			],
+			[
+				"1",
+				"application\\views\\page\\1.php"
+			],
+			[
+				"rout",
+				"application\\config\\routes.php"
+			],
+			[
+				"static_pernambucanas_ale",
+				"application\\views\\page\\statics\\static_pernambucanas_ale.php"
+			],
+			[
+				"staticpage",
+				"application\\controllers\\StaticPage.php"
+			],
+			[
+				"post_json_helper",
+				"application\\helpers\\post_json_helper.php"
+			],
+			[
+				"ruote",
+				"application\\config\\routes.php"
+			],
+			[
+				"motivo_sky",
+				"application\\views\\page\\motivo_sky.php"
+			],
+			[
+				"agendamento_sky",
+				"application\\views\\page\\sky\\agendamento_sky.php"
+			],
+			[
+				"hme",
+				"application\\controllers\\HomeController.php"
+			],
+			[
+				"popup",
+				"src\\sass\\popup_geral.scss"
+			],
+			[
+				"home",
+				"application\\controllers\\HomeController.php"
+			],
+			[
+				"romoend",
+				"application\\helpers\\promoend_helper.php"
+			],
+			[
+				"cadastrar_c",
+				"application\\views\\page\\cadastrar_cupom.php"
+			],
+			[
+				"mixi",
+				"src\\sass\\_utils\\mixins.scss"
+			],
+			[
+				"produtos",
+				"application\\views\\page\\produtos.php"
+			],
+			[
+				"produto",
+				"src\\sass\\produtos.scss"
+			],
+			[
+				"gnahadore",
+				"src\\sass\\ganhadores.scss"
+			],
+			[
+				"premios",
+				"application\\views\\page\\premios.php"
+			],
+			[
+				"main.scs",
+				"src\\sass\\main.scss"
+			],
+			[
+				"cadastro",
+				"src\\sass\\cadastro_sucesso.scss"
+			],
+			[
+				"como_",
+				"application\\views\\page\\como_participar.php"
+			],
+			[
+				"meus",
+				"application\\views\\page\\meus_cupons.php"
+			],
+			[
+				"cadastro_su",
+				"application\\views\\page\\cadastro_sucesso.php"
+			],
+			[
+				"meus_",
+				"src\\sass\\meus_cupons.scss"
+			],
+			[
+				"meus_cu",
+				"application\\views\\page\\meus_cupons.php"
+			],
+			[
+				"index.ss",
+				"src\\sass\\index.scss"
+			],
+			[
+				"ticket",
+				"application\\controllers\\ajax_controllers\\TicketRegistration.php"
+			],
+			[
+				"promoend",
+				"application\\helpers\\promoend_helper.php"
+			],
+			[
+				"gnahadores",
+				"application\\views\\page\\ganhadores.php"
+			],
+			[
+				"meusc",
+				"src\\sass\\meus_cupons.scss"
+			],
+			[
+				"cupom",
+				"src\\sass\\cupom.scss"
+			],
+			[
+				"cupom_s",
+				"src\\sass\\cupom_sucesso.scss"
+			],
+			[
+				"cadastro_s",
+				"application\\views\\page\\cadastro_sucesso.php"
+			],
+			[
+				"como_ar",
+				"application\\views\\page\\como_participar.php"
+			],
+			[
+				"como_par",
+				"src\\sass\\como_participar.scss"
+			],
+			[
+				"index.php",
+				"application\\views\\page\\index.php"
+			],
+			[
+				"index.sc",
+				"src\\sass\\index.scss"
+			],
+			[
+				"meus_cupons",
+				"src\\sass\\meus_cupons.scss"
+			],
+			[
+				"cupons_sucesso",
+				"application\\views\\page\\cupons_sucesso.php"
+			],
+			[
+				"meus_cup",
+				"application\\views\\page\\meus_cupons.php"
+			],
+			[
+				"cadastrar",
+				"application\\views\\page\\cadastrar_cupom.php"
+			],
+			[
+				"cadastor_suce",
+				"src\\sass\\cadastro_sucesso.scss"
+			],
+			[
+				"cadastro_suce",
+				"application\\views\\page\\cadastro_sucesso.php"
+			],
+			[
+				"cadastro.s",
+				"src\\sass\\cadastro.scss"
+			],
+			[
+				"popu",
+				"src\\sass\\popup_geral.scss"
+			],
+			[
+				"duvidas",
+				"application\\views\\page\\duvidas.php"
+			],
+			[
+				"regua",
+				"src\\sass\\regulamento.scss"
+			],
+			[
+				"regulament",
+				"application\\views\\page\\regulamento.php"
+			],
+			[
+				"duvi",
+				"application\\views\\page\\duvidas.php"
+			],
+			[
+				"ganhad",
+				"application\\views\\page\\ganhadores.php"
+			],
+			[
+				"partic",
+				"application\\views\\page\\como_participar.php"
+			],
+			[
+				"cadastre",
+				"application\\views\\page\\cadastre_se.php"
+			],
+			[
+				"cadastre_se",
+				"application\\views\\page\\cadastre_se.php"
+			],
+			[
+				"cadastpr",
+				"application\\controllers\\Cadastro.php"
+			],
+			[
+				"index.s",
+				"src\\sass\\index.scss"
+			],
+			[
+				"promoe",
+				"application\\helpers\\promoend_helper.php"
+			],
+			[
+				"font",
+				"src\\sass\\_utils\\fonts.scss"
+			],
+			[
+				"ganhado",
+				"application\\views\\page\\ganhadores.php"
+			],
+			[
+				"conf",
+				"application\\config\\config.php"
+			],
+			[
+				"autoload",
+				"application\\config\\autoload.php"
+			],
+			[
+				"ganhadores",
+				"application\\controllers\\GanhadoresConsumidor.php"
+			],
+			[
+				"parti",
+				"application\\views\\page\\participe.php"
+			],
+			[
+				"cadastr_al",
+				"assets\\js\\cadastro_alterar.js"
+			],
+			[
+				"meus_dad",
+				"application\\views\\page\\meus_dados.php"
+			],
+			[
+				"postcadas",
+				"application\\controllers\\ajax_controllers\\PostCadastro.php"
+			],
+			[
+				"postalterar",
+				"application\\controllers\\ajax_controllers\\PostAlterarCadastro.php"
+			],
+			[
+				"meu_dados",
+				"application\\views\\page\\meus_dados.php"
+			],
+			[
+				"promo",
+				"application\\helpers\\promostart_helper.php"
+			],
+			[
+				"sorte",
+				"application\\views\\page\\sorteios.php"
+			],
+			[
+				"faq",
+				"application\\controllers\\Faq.php"
+			],
+			[
+				"foo",
+				"application\\views\\partials\\footer.php"
+			],
+			[
+				"homecon",
+				"application\\controllers\\HomeController.php"
+			],
+			[
+				"postate",
+				"application\\controllers\\ajax_controllers\\PostAlterarCadastro.php"
+			],
+			[
+				"estil",
+				"assets\\css\\estilo.css"
+			],
+			[
+				"fale",
+				"application\\views\\page\\fale_conosco.php"
+			],
+			[
+				"faq.js",
+				"assets\\js\\faq.js"
+			],
+			[
+				"postlogin",
+				"application\\controllers\\ajax_controllers\\PostLogin.php"
+			],
+			[
+				"login",
+				"application\\controllers\\Login.php"
+			],
+			[
+				"consultarp",
+				"application\\controllers\\ConsultarParticipacao.php"
+			],
+			[
+				"particip",
+				"application\\views\\page\\participe.php"
+			],
+			[
+				"cadastro_al",
+				"assets\\js\\cadastro_alterar.js"
+			],
+			[
+				"sor",
+				"application\\views\\page\\sorteios.php"
+			],
+			[
+				"regual",
+				"application\\views\\page\\regulamento.php"
+			],
+			[
+				"esti",
+				"assets\\css\\estilo.css"
+			],
+			[
+				"bilhete",
+				"assets\\css\\bilhetes.css"
+			],
+			[
+				"estilo",
+				"assets\\css\\estilo.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 280.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
