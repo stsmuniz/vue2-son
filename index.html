@@ -12,14 +12,17 @@
 			<br>
 			<br>
 			<div v-if="view == 'tabela'">
+        <input type="text" v-model="filter">
 				<table class="table table-striped">
 					<thead>
 						<tr>
-							<th v-for="coluna in colunas">{{coluna | ucwords}}</th>
+							<th v-for="coluna in colunas">
+                <a @click.precent="sortBy(coluna)" href="#">{{coluna | ucwords}}</a>
+              </th>
 						</tr>
 					</thead>
 					<tbody>
-						<tr v-for="time in times">
+						<tr v-for="time in timesFiltered">
 							<td>
 								<img :src="time.escudo" style="height: 30px; width: 30px">
 								<strong>{{time.nome}}</strong>
